@@ -1,0 +1,1076 @@
+[
+  {
+    "nct_id": "NCT03380871",
+    "title": "A Personal Cancer Vaccine (NEO-PV-01) With Pembrolizumab and Chemotherapy for Patients With Lung Cancer",
+    "condition": "Carcinoma, Non-Small-Cell Lung, Lung Cancer, Nonsquamous Nonsmall Cell Neoplasm of Lung",
+    "phase": "PHASE1",
+    "inclusion_entities": {
+      "DISEASE": [
+        "metastatic disease"
+      ],
+      "DRUG": [
+        "prior systemic therapy",
+        "systemic therapy"
+      ],
+      "LAB_TEST": [
+        "absolute neutrophil count",
+        "creatinine clearance",
+        "platelet count",
+        "platelet count \u2265 100",
+        "serum creatinine",
+        "serum creatinine \u2264 1.5",
+        "total bilirubin",
+        "total bilirubin \u2264 1.5"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "metastatic disease",
+        "squamous cell carcinoma"
+      ],
+      "DRUG": [
+        "pembrolizumab",
+        "prior chemotherapy",
+        "systemic therapy"
+      ],
+      "PROCEDURE": [
+        "radiation therapy"
+      ]
+    },
+    "inclusion_summary": "At least 1 site of disease measurable by RECIST v1.1 that has not been treated with local therapy within 6 months of study treatment. Recovered from all toxicities associated with prior treatment to acceptable baseline status.",
+    "exclusion_summary": "* Is currently participating and receiving study therapy or has participated in a study of an investigational agent. Has had a prior anti-cancer monoclonal antibody (mAb) within 4 weeks prior to study Day 1. Has not recovered from adverse events due to agents administered more than",
+    "num_inclusion_entities": 11,
+    "num_exclusion_entities": 6
+  },
+  {
+    "nct_id": "NCT03700437",
+    "title": "Fasting-mimicking Diet With Chemo-immunotherapy in Non-small Cell Lung Cancer (NSCLC)",
+    "condition": "Non-small Cell Lung Cancer",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "advanced disease",
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer"
+      ],
+      "DRUG": [
+        "targeted therapy"
+      ]
+    },
+    "exclusion_entities": {},
+    "inclusion_summary": "Patients must be at least 18 years old at the time of informed consent and have advanced disease. Patients should be on maintenance therapy for advanced NSCLC for a minimum of 2 months.",
+    "exclusion_summary": "Self-reported weight loss of \\> 10% in the 6 weeks prior to study entry. History of diabetes mellitus or patients with a known recent elevated A1c. Prior therapies with inhibitors of IGF-1 such as Linsitinib.",
+    "num_inclusion_entities": 5,
+    "num_exclusion_entities": 0
+  },
+  {
+    "nct_id": "NCT06428422",
+    "title": "The Impact of Probiotic on Survival and Treatment Response in Metastatic Non-small Cell Lung Cancer Patients",
+    "condition": "Metastatic Non-small Cell Lung Cancer",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "metastatic disease",
+        "non-small cell lung cancer",
+        "small cell lung cancer"
+      ],
+      "LAB_TEST": [
+        "platelet count"
+      ]
+    },
+    "exclusion_entities": {},
+    "inclusion_summary": "Patients must be in an advanced stage (incurable with surgery or radiotherapy) or have metastatic disease (Stage IV) Male or female patients aged \\>18 years. Eastern Cooperative Oncology Group (ECOG) Performance Status less than 2. Laboratory findings must confirm adequate",
+    "exclusion_summary": "Previous treatment with any of the following antibody blockers. Currently taking probiotic supplements or consuming probiotic bacteria-supported yogurt and similar food supplements. Active interstitial lung disease.",
+    "num_inclusion_entities": 5,
+    "num_exclusion_entities": 0
+  },
+  {
+    "nct_id": "NCT03207867",
+    "title": "A Phase 2 Study of NIR178 in Combination With PDR001 in Patients With Solid Tumors and Non-Hodgkin Lymphoma",
+    "condition": "NSCLC, Non Small Cell Lung Cancer, RCC, Renal Cell Cancer, Pancreatic Cancer, Urothelial Cancer, Head and Neck Cancer, DLBCL, Diffused Large B Cell Lymphoma, MSS, Microsatellite Stable Colon Cancer, TNBC, Triple Negative Breast Cancer, Melanoma, mCRPC, Metastatic Castration Resistant Prostate Cancer",
+    "phase": "PHASE2",
+    "inclusion_entities": {
+      "DISEASE": [
+        "breast cancer",
+        "colon cancer",
+        "diffuse large b-cell lymphoma",
+        "pancreatic cancer",
+        "prostate cancer",
+        "renal cell carcinoma",
+        "triple negative breast cancer"
+      ],
+      "DRUG": [
+        "cisplatin",
+        "oxaliplatin",
+        "prior therapy"
+      ],
+      "BIOMARKER": [
+        "braf v600e",
+        "egfr positive",
+        "pd-l1 sp-142",
+        "pd-l1 sp142",
+        "pd-l1 status"
+      ],
+      "PROCEDURE": [
+        "stem cell transplantation",
+        "tumor biopsy"
+      ]
+    },
+    "exclusion_entities": {
+      "DRUG": [
+        "anti-cancer therapy"
+      ]
+    },
+    "inclusion_summary": "Part 1: Histologically confirmed renal cell carcinoma (RCC), pancreatic cancer, urothelial cancer, head and neck cancer, diffuse large B-cell lymphoma (DLBCL) Part 2: histologically confirmed diagnosis of advanced/metastatic NSCLC",
+    "exclusion_summary": "Current or prior use of immunosuppressive medication within 28 days before the first dose of PDR001. Patients previously treated with A2aR inhibitors for non-oncologic indications (e.g. Parkinson's disease) may be considered for enrollment.",
+    "num_inclusion_entities": 17,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT03994744",
+    "title": "Assessing Safety and Efficacy of Sintilimab and Metformin Combination Therapy in SCLC",
+    "condition": "Small-cell Lung Cancer, Small Cell Lung Carcinoma, Small Cell Lung Cancer Recurrent, Small Cell Lung Cancer Extensive Stage",
+    "phase": "PHASE2",
+    "inclusion_entities": {
+      "LAB_TEST": [
+        "absolute neutrophil count",
+        "creatinine clearance",
+        "creatinine clearance \u226540 ml/min",
+        "serum creatinine",
+        "serum creatinine \u2264 1.5",
+        "total bilirubin",
+        "total bilirubin \u2264 1.5"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "breast carcinoma",
+        "gastric carcinoma",
+        "lung cancer",
+        "small cell lung cancer"
+      ],
+      "PROCEDURE": [
+        "stem cell transplantation"
+      ]
+    },
+    "inclusion_summary": "Participants must have histologically or cytologically confirmed metastatic or extended disease of SCLC (ED-SCLC) According to RECIST1.1, participants must have been confirmed Disease progression (within 6 months, confirmed by imaging test)",
+    "exclusion_summary": " participants who were diagnosed as mixed pathological type of small cell lung cancer. Participants who had long-term use of metformin (\\>2 weeks) 6 months prior to study entry, or diagnosed with type-2 diabetes.",
+    "num_inclusion_entities": 7,
+    "num_exclusion_entities": 5
+  },
+  {
+    "nct_id": "NCT02955251",
+    "title": "A Study of ABBV-428, an Immunotherapy, in Subjects With Advanced Solid Tumors",
+    "condition": "Advanced Solid Tumors Cancer",
+    "phase": "PHASE1",
+    "inclusion_entities": {
+      "DRUG": [
+        "nivolumab"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "chronic lymphocytic leukemia"
+      ],
+      "PROCEDURE": [
+        "bone marrow transplantation"
+      ]
+    },
+    "inclusion_summary": " participants must have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1. Participants in combination therapy cohorts must have an advanced solid tumor where the use of nivolumab is standard therapy.",
+    "exclusion_summary": " Participants with childhood atopy or asthma, vitiligo, alopecia, Hashimoto syndrome, Grave's disease, or psoriasis not requiring systemic treatment (within the past 2 years) are not excluded. Current or prior use of immunosuppressive medication within 14 days",
+    "num_inclusion_entities": 1,
+    "num_exclusion_entities": 2
+  },
+  {
+    "nct_id": "NCT03520686",
+    "title": "Nogapendekin Alfa Inbakicept for Advanced Non-Small Cell Lung Cancer",
+    "condition": "Non Small Cell Lung Cancer",
+    "phase": "PHASE3",
+    "inclusion_entities": {
+      "DISEASE": [
+        "metastatic disease",
+        "stage 3 disease"
+      ],
+      "BIOMARKER": [
+        "alk translocation",
+        "egfr mutation",
+        "egfr sensitizing mutations",
+        "pd-l1 expression",
+        "sensitizing mutations",
+        "targetable genomic aberration"
+      ],
+      "LAB_TEST": [
+        "ecog performance status"
+      ],
+      "PROCEDURE": [
+        "surgical resection",
+        "tumor biopsy"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "prostate cancer",
+        "squamous cell carcinoma",
+        "stage iii disease"
+      ],
+      "DRUG": [
+        "prior systemic therapy",
+        "systemic therapy"
+      ],
+      "BIOMARKER": [
+        "egfr mutation",
+        "egfr mutations"
+      ],
+      "LAB_TEST": [
+        "absolute neutrophil count",
+        "creatinine clearance",
+        "ecog performance status",
+        "platelet count",
+        "serum creatinine",
+        "total bilirubin"
+      ],
+      "PROCEDURE": [
+        "radiation therapy",
+        "surgical resection"
+      ]
+    },
+    "inclusion_summary": "Cohorts A, B, C were aged 18 years old and had Histologically-confirmed stage 3 or 4 NSCLC disease. Subjects with stage 3 disease must not be candidates for treatment with surgical resection.",
+    "exclusion_summary": "A history of prior malignancy with the following exceptions. Systemic autoimmune disease (eg, lupus erythematosus, rheumatoid arthritis, Addison's disease). History of organ transplant requiring immunosuppression.",
+    "num_inclusion_entities": 11,
+    "num_exclusion_entities": 15
+  },
+  {
+    "nct_id": "NCT05922345",
+    "title": "Evaluation of the Efficacy and Safety of AL2846 Capsule Combined With TQB2450 Injection Compared to Docetaxel Injection in Advanced Non-small Cell Lung Cancer Patients Who Have Failed With Immunotherapy.",
+    "condition": "Non-small Cell Lung Cancer",
+    "phase": "PHASE3",
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "nonsmall-cell lung cancer",
+        "recurrent disease"
+      ],
+      "DRUG": [
+        "platinum-based chemotherapy",
+        "prior systemic therapy",
+        "systemic therapy"
+      ]
+    },
+    "exclusion_entities": {},
+    "inclusion_summary": "The subjects were aged 18-75 years and had a BMI of 17 at baseline. The subjects voluntarily joined the study, signed an informed consent form, and had good compliance.",
+    "exclusion_summary": "Patients who Have been diagnosed or currently had other malignant tumors. Presence of epidermal growth factor receptor (EGFR) mutation, anaplastic lymphoma kinase (ALK) fusion, c-ros oncogene 1 (ROS1) fusion and other significant",
+    "num_inclusion_entities": 6,
+    "num_exclusion_entities": 0
+  },
+  {
+    "nct_id": "NCT04189094",
+    "title": "Chemoradiotherapy With or Without Sintilimab in Limited-stage SCLC",
+    "condition": "Small Cell Lung Cancer Limited Stage",
+    "phase": "PHASE2",
+    "inclusion_entities": {
+      "LAB_TEST": [
+        "ecog performance status",
+        "karnofsky performance status \u2265 80"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "breast carcinoma"
+      ]
+    },
+    "inclusion_summary": "Histologically/cytologically confirmed diagnosis of SCLC. Radiologically (including brain CT/MRI, chest and abdomen contrasted CT and bone scintigraphy is recommended) confirmed limited-stage. Patients should be 18 years old.",
+    "exclusion_summary": "Histology confirmed the mixed NSCLC components. Other primary malignant tumors appeared within 5 years before the first administration of the study drug.",
+    "num_inclusion_entities": 2,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT03699956",
+    "title": "RRx-001 Sequentially With a Platinum Doublet or a Platinum Doublet in Third-Line or Beyond in Patients With Small Cell Lung Cancer",
+    "condition": "Carcinoma, Small Cell Lung",
+    "phase": "PHASE3",
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "small cell lung cancer"
+      ],
+      "DRUG": [
+        "checkpoint inhibitor"
+      ]
+    },
+    "exclusion_entities": {},
+    "inclusion_summary": "Prior platinum treatment is required. Prior treatment with a checkpoint inhibitor is required unless contraindicated. Measurable lesions will be confirmed by imaging.",
+    "exclusion_summary": "Treatment of SCLC with any antineoplastic agent with the exception of steroids. Patients with clinically significant illnesses which would compromise participation.",
+    "num_inclusion_entities": 3,
+    "num_exclusion_entities": 0
+  },
+  {
+    "nct_id": "NCT04980716",
+    "title": "Early Specialized Cardiovascular Intervention Based on Impedance Cardiography in Locally Advanced Non-small Cell Lung Cancer Patients",
+    "condition": "Non-small Cell Lung Cancer, Cardiovascular Complication",
+    "phase": "PHASE3",
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer"
+      ],
+      "LAB_TEST": [
+        "absolute neutrophil count",
+        "absolute neutrophil count \u22651",
+        "creatinine clearance",
+        "hemoglobin \u226590",
+        "serum creatinine"
+      ]
+    },
+    "exclusion_entities": {
+      "LAB_TEST": [
+        "absolute neutrophil count",
+        "creatinine clearance",
+        "serum creatinine"
+      ]
+    },
+    "inclusion_summary": "Lung cancer is diagnosed as non-small cell lung cancer. Plan to receive radical radiotherapy and chemotherapy. Organ and bone marrow function meet the following conditions.",
+    "exclusion_summary": "A person with a PS score of 2-4 is at risk for organ function impairment. Organ function impairment includes: neutrophil count, platelets, hemoglobin, creatinine clearance.",
+    "num_inclusion_entities": 8,
+    "num_exclusion_entities": 3
+  },
+  {
+    "nct_id": "NCT07035860",
+    "title": "Efficacy and Safety of Chemoimmunotherapy and Carbon Ion Radiotherapy in Unresectable Locally Advanced Non-small Cell Lung Cancer",
+    "condition": "Carbon Ion Radiotheray",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "small cell lung cancer"
+      ]
+    },
+    "inclusion_summary": "AJCC staging system: Unresectable, locally advanced non-small cell lung cancer. No prior anti-cancer treatment. No significant internal medical conditions or major organ dysfunction.",
+    "exclusion_summary": "Histological evidence of small cell lung cancer or other primary malignancies. EGFR, ALK, or ROS-1 gene mutations. Active or prior autoimmune/inflammatory disorders. Inability to comply with study protocol.",
+    "num_inclusion_entities": 3,
+    "num_exclusion_entities": 2
+  },
+  {
+    "nct_id": "NCT04776447",
+    "title": "Atezolizumab Plus Induction Chemotherapy Plus CT-radiotherapy. (APOLO)",
+    "condition": "Lung Diseases, Carcinoma, Non-Small-Cell Lung, Stage IIIA Non-small Cell Lung Cancer, Stage IIIB Non-small Cell Lung Cancer, Respiratory Tract Neoplasms, Carcinoma Bronchiogenic Stage III, Thoracic Neoplasms",
+    "phase": "PHASE2",
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "metastatic disease"
+      ],
+      "LAB_TEST": [
+        "alkaline phosphatase \u2264 2.5",
+        "creatinine clearance",
+        "platelet count",
+        "platelet count \u2265 100,000/\u03bcl",
+        "serum creatinine",
+        "serum creatinine \u2264 1.5"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "metastatic disease",
+        "prostate cancer"
+      ],
+      "DRUG": [
+        "atezolizumab"
+      ],
+      "BIOMARKER": [
+        "alk fusion",
+        "sensitizing mutation"
+      ],
+      "LAB_TEST": [
+        "left ventricular ejection fraction"
+      ],
+      "PROCEDURE": [
+        "bone marrow transplantation"
+      ]
+    },
+    "inclusion_summary": "Non-resectable Stage IIIA-IIIB NSCLC according to the 8th version of the International Association for the Study of Lung Cancer Staging Manual in Thoracic Oncology. No prior treatment with anti-neoplastic drugs or thoracic radiotherapy",
+    "exclusion_summary": " patients with known sensitizing mutation or an amplification in the epidermal growth factor receptor (EGFR) gene. Patients with non-visible by thoracic X-Ray pleural effusion or too small to be safely punctioned could be included.",
+    "num_inclusion_entities": 8,
+    "num_exclusion_entities": 7
+  },
+  {
+    "nct_id": "NCT06478108",
+    "title": "Interventional Software for Multi-immunotherapy of Solid Tumors",
+    "condition": "Lung Cancer, Liver Cancer, Solid Tumor, Adult",
+    "phase": "PHASE2, PHASE3",
+    "inclusion_entities": {
+      "LAB_TEST": [
+        "total bilirubin",
+        "wbc\u22653"
+      ]
+    },
+    "exclusion_entities": {
+      "LAB_TEST": [
+        "platelet count"
+      ]
+    },
+    "inclusion_summary": "Cytohistological confirmation is required for diagnosis of cancer. At least one tumor lesion meeting measurable disease criteria as determined by RECIST v1.1.",
+    "exclusion_summary": "Patients participated in clinical trials of equipment or drugs. Patients accompany by ascites, hepatic encephalopathy and esophageal and gastric varices bleeding. Patients accompanied with other tumors or past medical history of malignancy.",
+    "num_inclusion_entities": 2,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT06457789",
+    "title": "Assessment of PET Tracers to Evaluate T Cell Change and Activation in Relation to Immunotherapy Treatment Response in Non-Small Cell Lung Cancer",
+    "condition": "NSCLC",
+    "phase": NaN,
+    "inclusion_entities": {
+      "LAB_TEST": [
+        "ecog performance status"
+      ]
+    },
+    "exclusion_entities": {},
+    "inclusion_summary": "Histologically confirmed NSCLC. T1-4N0-2, lesion size of \u22652cm. Planned to undergo resection after chemo-IO according to routine treatment guidelines. Willing and able to provide written informed consent.",
+    "exclusion_summary": "Inhaled or topical steroids, and adrenal replacement steroid are permitted in the absence of active autoimmune disease. Psychiatric or substance abuse disorders would interfere with cooperation with the requirements of the trial.",
+    "num_inclusion_entities": 1,
+    "num_exclusion_entities": 0
+  },
+  {
+    "nct_id": "NCT02902029",
+    "title": "Evaluating the Efficacy and Safety of a Sequencing Schedule of Cobimetinib Plus Vemurafenib Followed by Immunotherapy With an Anti- PD-L1 Antibody in Patients With Unresectable or Metastatic BRAF V600 Mutant Melanoma",
+    "condition": "Malignant Melanoma",
+    "phase": "PHASE2",
+    "inclusion_entities": {
+      "BIOMARKER": [
+        "braf mutation"
+      ]
+    },
+    "exclusion_entities": {
+      "DRUG": [
+        "ipilimumab",
+        "prior therapy",
+        "systemic therapy"
+      ],
+      "PROCEDURE": [
+        "bone marrow transplantation"
+      ]
+    },
+    "inclusion_summary": "Male or female patient being \u226518 years of age on day of signing informed consent. Histologically confirmed diagnosis of locally advanced, unresectable or metastatic melanoma AJCC. All known CNS lesions must have been treated with stereotactic therapy.",
+    "exclusion_summary": "Use of any investigational or non-registered product within the 30 days before registration. Diagnosis of immunodeficiency or receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to study Day 1. Prior major surgery.",
+    "num_inclusion_entities": 1,
+    "num_exclusion_entities": 4
+  },
+  {
+    "nct_id": "NCT06391099",
+    "title": "Ketogenic Dietary Intervention to Improve Response to Immunotherapy in Patients With Metastatic Melanoma and Metastatic Kidney Cancer",
+    "condition": "Clinical Stage IV Cutaneous Melanoma AJCC v8, Metastatic Cutaneous Melanoma, Metastatic Renal Cell Carcinoma, Stage IV Renal Cell Cancer AJCC v8",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "renal cell carcinoma"
+      ],
+      "DRUG": [
+        "ipilimumab",
+        "nivolumab",
+        "pd-1 inhibitor",
+        "pembrolizumab"
+      ]
+    },
+    "exclusion_entities": {
+      "DRUG": [
+        "anti-cancer therapy"
+      ]
+    },
+    "inclusion_summary": "Males and females, age \\>= 18 years. Clinical site A will include patients with confirmed diagnosis of metastatic melanoma (including those with brain metastases) Patients will receive first line treatment with combination nivolumab and ipilimumab or single agent ipil",
+    "exclusion_summary": "Patients with type 1 diabetes mellitus or type 2 diabetes using insulin excluded. Women who are known to be pregnant are excluded. No additional pregnancy testing will be performed solely for this study.",
+    "num_inclusion_entities": 5,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT02431572",
+    "title": "A Pilot Study to Evaluate PBR PET in Brain Tumor Patients Treated With Chemoradiation or Immunotherapy",
+    "condition": "Intracranial Tumors, Glioblastoma, Melanoma",
+    "phase": NaN,
+    "inclusion_entities": {
+      "LAB_TEST": [
+        "absolute neutrophil count",
+        "absolute neutrophil count \u22651,500",
+        "creatinine clearance",
+        "creatinine clearance \u226560 ml/min",
+        "total bilirubin"
+      ]
+    },
+    "exclusion_entities": {
+      "LAB_TEST": [
+        "creatinine clearance",
+        "serum creatinine"
+      ]
+    },
+    "inclusion_summary": " Participants must have evidence of metastatic melanoma to the brain for Cohort A or histologically confirmed GBM for Cohorts Band C. Those with newly diagnosed GBM but suspected to have pseudoprogression after completion of chemoradiation can enroll in Cohort C.",
+    "exclusion_summary": "Pregnant women are excluded from this study because PBR is a radiopharmaceutical agent with the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to exposure of the mother to PBR,",
+    "num_inclusion_entities": 5,
+    "num_exclusion_entities": 2
+  },
+  {
+    "nct_id": "NCT04802876",
+    "title": "Efficacy of Tislelizumab and Spartalizumab Across Multiple Cancer-types in Patients with PD1-high MRNA Expressing Tumors",
+    "condition": "MSI-H Colorectal Cancer, Melanoma, Anal Carcinoma, Mesothelioma, Triple Negative Breast Cancer, Lung Adenocarcinoma, Cholangiocarcinoma, Cervical Carcinoma, Kidney Clear Cell Carcinoma, Stomach Adenocarcinoma, Esophageal Adenocarcinoma, Uterine Adenocarcinoma, Head and Neck Squamous Cell Carcinoma, Sarcoma, Lung Squamous Cell Carcinoma, Urothelial Carcinoma, Thyroid Carcinoma, Hepatocellular Carcinoma, Uveal Melanoma, HER2-positive Breast Cancer, Pancreatic Adenocarcinoma, Squamous Esophageal Carcinoma, Epithelial Ovarian Cancer, Uterine Carcinosarcoma, Small Cell Lung Cancer, Hormone Receptor Positive / HER2-negative Breast Cancer, Lung Adenocarcinoma EGFR-mutated/ ALK Traslocation, Colorectal Adenocarcinoma, Prostate Adenocarcinoma, Carcinoma of Unknown Primary, Other Histology",
+    "phase": "PHASE2",
+    "inclusion_entities": {},
+    "exclusion_entities": {
+      "DISEASE": [
+        "breast carcinoma",
+        "squamous cell carcinoma"
+      ],
+      "DRUG": [
+        "anti-cancer therapy",
+        "prior therapy",
+        "systemic therapy"
+      ],
+      "PROCEDURE": [
+        "radiation therapy",
+        "stem cell transplantation"
+      ]
+    },
+    "inclusion_summary": "Male/female participants who are at least 18 years of age on the day of signing informed consent with histologically confirmed diagnosis of PD1.",
+    "exclusion_summary": "Women of childbearing potential who has a positive urine pregnancy test within 72 hours prior to allocation. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.",
+    "num_inclusion_entities": 0,
+    "num_exclusion_entities": 7
+  },
+  {
+    "nct_id": "NCT00002817",
+    "title": "Vaccine Therapy in Treating Patients With Metastatic Melanoma",
+    "condition": "Melanoma (Skin)",
+    "phase": "PHASE1, PHASE2",
+    "inclusion_entities": {
+      "DRUG": [
+        "prior chemotherapy"
+      ]
+    },
+    "exclusion_entities": {},
+    "inclusion_summary": " melanoma that is considered surgically incurable. Dermal, subcutaneous, or lymph node metastases required. At least 3 lesions evaluable and accessible for injection and biopsy. One lesion at least 10 mm in diameter No leukemia or lymphoma",
+    "exclusion_summary": "",
+    "num_inclusion_entities": 1,
+    "num_exclusion_entities": 0
+  },
+  {
+    "nct_id": "NCT01435499",
+    "title": "Safety Study of a Melanoma Vaccine (GVAX) With or Without Cyclophosphamide in Patients With Surgically Resected Melanoma",
+    "condition": "Melanoma",
+    "phase": "PHASE1",
+    "inclusion_entities": {},
+    "exclusion_entities": {
+      "PROCEDURE": [
+        "bone marrow transplantation",
+        "radiation therapy"
+      ]
+    },
+    "inclusion_summary": "Patients must be able to provide informed consent. Patients of both genders must agree to practice effective birth control during the study period and for at least 4 weeks after the last treatment.",
+    "exclusion_summary": "Patients whose primary site of melanoma is ocular. Are undergoing or have undergone in the past 4 weeks any systemic treatment for melanoma. Have active systemic infections, coagulation disorders, or other major medical or psychiatric illnesses.",
+    "num_inclusion_entities": 0,
+    "num_exclusion_entities": 2
+  },
+  {
+    "nct_id": "NCT01082887",
+    "title": "A Study of Immunotherapy With TIL (Tumor Infiltrating Lymphocytes) in Combination With Intra-tumoral Injections of Interferon Gamma-adenovirus (Ad-IFNg) in Patients With Stage IIIc or Stage IV Metastatic Melanoma (AJCC)(Protocol TIL-Ad-INFg)",
+    "condition": "Metastatic Melanoma",
+    "phase": "PHASE1, PHASE2",
+    "inclusion_entities": {
+      "LAB_TEST": [
+        "ecog performance status"
+      ]
+    },
+    "exclusion_entities": {},
+    "inclusion_summary": "A negative pregnancy test for women with childbearing potential. Patients with stage IIIc/IV metastatic melanoma with nodal relapse.",
+    "exclusion_summary": "The patient is pregnant or lactating or not using contraception and proved by a negative pregnancy test. Positive viral serology for HIV \u00bd, p24 Ag, HTLV 1 / 2 or B and C hepatitis is also required.",
+    "num_inclusion_entities": 1,
+    "num_exclusion_entities": 0
+  },
+  {
+    "nct_id": "NCT04436406",
+    "title": "PD-L1 Expression in Cancer (PECan Study).",
+    "condition": "Non-small Cell Lung Cancer, Melanoma",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DRUG": [
+        "anti-cancer therapy"
+      ]
+    },
+    "exclusion_entities": {
+      "DRUG": [
+        "anti-cancer therapy",
+        "checkpoint inhibitor"
+      ]
+    },
+    "inclusion_summary": "Patients with histologically confirmed NSCLC or melanoma scheduled for PD1/PDL1 immunotherapy alone or in combination with other systemic anti-cancer therapy. Willingness and ability to comply with scheduled study visits and tests.",
+    "exclusion_summary": "Patients likely to require palliative radiotherapy within the first 12 weeks of treatment or radiotherapy to target lesion(s) received within preceding 42 days. More than 3 months between IHC PDL1 and study recruitment. Pregnant or lactating women.",
+    "num_inclusion_entities": 1,
+    "num_exclusion_entities": 2
+  },
+  {
+    "nct_id": "NCT03743766",
+    "title": "Nivolumab, BMS-936558 in Combination with Relatlimab, BMS-986016 in Patients with Metastatic Melanoma Na\u00efve to Prior Immunotherapy in the Metastatic Setting",
+    "condition": "Melanoma",
+    "phase": "PHASE2",
+    "inclusion_entities": {},
+    "exclusion_entities": {
+      "DRUG": [
+        "targeted therapy"
+      ]
+    },
+    "inclusion_summary": "Men or women 18 years of age or older meeting AJCC 8th edition criteria for unresectable stage IIIB, stage IIIC or stage IIID, or stage IV melanoma.",
+    "exclusion_summary": "Subjects with controlled brain metastases will be allowed to enroll. Subjects must be off steroids for at least 2 weeks prior to randomization. Prior systemic treatment in the metastatic setting is required.",
+    "num_inclusion_entities": 0,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT00109005",
+    "title": "Lenalidomide (Revlimid) to Treat Advanced Ocular Melanoma",
+    "condition": "Melanoma",
+    "phase": "PHASE2",
+    "inclusion_entities": {
+      "DRUG": [
+        "carboplatin",
+        "prior therapy"
+      ],
+      "LAB_TEST": [
+        "creatinine clearance",
+        "platelet count"
+      ],
+      "PROCEDURE": [
+        "radiation therapy"
+      ]
+    },
+    "exclusion_entities": {
+      "DRUG": [
+        "prior therapy"
+      ]
+    },
+    "inclusion_summary": "All patients with stage IV ocular melanoma who have measurable disease will be considered. Patients must have histopathological documentation confirmed in the Laboratory of Pathology/National Cancer Institute.",
+    "exclusion_summary": "Patients with evidence of active brain metastases will be excluded. No data is currently available about the excretion of lenalidomide in breast milk. Patients who are known positive for human immunodeficiency virus (HIV) will not be eligible.",
+    "num_inclusion_entities": 5,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT04305145",
+    "title": "Infliximab for Treatment of Immune Checkpoint Inhibitor Colitis",
+    "condition": "Melanoma Stage III, Melanoma Stage IV, Skin Cancer Stage III, Skin Cancer Stage IV, Drug-Induced Colitis, Drug Toxicity, Immune-related Adverse Event",
+    "phase": "PHASE2",
+    "inclusion_entities": {
+      "DRUG": [
+        "ctla-4 inhibitor"
+      ]
+    },
+    "exclusion_entities": {
+      "DRUG": [
+        "targeted therapy"
+      ]
+    },
+    "inclusion_summary": "The patient is 18 years old and has Stage III/IV skin cancer. The patient was treated with CTLA-4 inhibitor alone or in combination with PD-1or PD-L1 blockade within the past 8 weeks.",
+    "exclusion_summary": "Prior history of inflammatory colitis related to immune checkpoint inhibitors requiring treatment with prednisone or equivalent. Current use of any immune suppressing biologic medication, or use within the last 4 weeks.",
+    "num_inclusion_entities": 1,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT06488482",
+    "title": "Assessment of Short Immunotherapy After Radical Surgery of High-risk Malignant Melanoma",
+    "condition": "High-risk Melanoma",
+    "phase": "PHASE3",
+    "inclusion_entities": {
+      "DISEASE": [
+        "stage iii disease"
+      ],
+      "DRUG": [
+        "nivolumab",
+        "pembrolizumab"
+      ],
+      "PROCEDURE": [
+        "radiation therapy"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "prostate cancer"
+      ]
+    },
+    "inclusion_summary": "CMM patients with unknown primary and stage IIb-c CMM patients who have not undergone sentinel node procedure are eligible. Previous adjuvant treatment with BRAF + MEK inhibitors is allowed. Patients with clear progressive disease according to the pathology report are not eligible.",
+    "exclusion_summary": "The patient is, in the opinion of the investigator, assessed as unfit to receive systemic adjuvant treatment. Participants with type I diabetes mellitus, hypothyroidism requiring hormone replacement only and skin disorders not requiring systemic treatment are eligible.",
+    "num_inclusion_entities": 4,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT01236573",
+    "title": "Cell Therapy for Metastatic Melanoma Using CD8 Enriched Tumor Infiltrating Lymphocytes",
+    "condition": "Skin Cancer, Metastatic Melanoma",
+    "phase": "PHASE1, PHASE2",
+    "inclusion_entities": {
+      "DRUG": [
+        "prior systemic therapy",
+        "systemic therapy"
+      ],
+      "LAB_TEST": [
+        "absolute neutrophil count",
+        "platelet count",
+        "serum creatinine",
+        "total bilirubin"
+      ]
+    },
+    "exclusion_entities": {
+      "LAB_TEST": [
+        "left ventricular ejection fraction"
+      ]
+    },
+    "inclusion_summary": "Patients of both genders must be willing to practice birth control from the time of enrollment on this study and for up to four months after the cells are no longer detected in the blood.",
+    "exclusion_summary": "Women of child-bearing potential who are pregnant or breastfeeding because of the potentially dangerous effects of the preparative chemotherapy on the fetus or infant. Active systemic infections, coagulation disorders or other major medical illnesses of the cardiovascular, respiratory or immune system.",
+    "num_inclusion_entities": 6,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT02366546",
+    "title": "Investigator Initiated Phase 1 Study of TBI-1301",
+    "condition": "Solid Tumors",
+    "phase": "PHASE1",
+    "inclusion_entities": {},
+    "exclusion_entities": {
+      "LAB_TEST": [
+        "left ventricular ejection fraction"
+      ]
+    },
+    "inclusion_summary": "No severe damage on the major organs (bone marrow, heart, lung, liver, kidney) and meet the following lab value criteria. No treatment (surgery, chemotherapy, radiotherapy, etc.) and expected sufficient recovery from the treatment at the time of the lymphocytes collection for gene",
+    "exclusion_summary": "The following serious complications are excluded from the study. Unstable angina, cardiac infarction, or heart failure. Uncontrolled diabetes or hypertension. Active infection. Tumor cell invasion into CNS. Active multiple cancer.",
+    "num_inclusion_entities": 0,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT03235765",
+    "title": "Cancer Panel From Blood of Lung Cancer Patients",
+    "condition": "Non Small Cell Lung Cancer Metastatic, Non Small Cell Lung Cancer Recurrent",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer"
+      ],
+      "DRUG": [
+        "checkpoint inhibitor",
+        "targeted therapy"
+      ]
+    },
+    "exclusion_entities": {},
+    "inclusion_summary": "Male or female, aged at least 20 years. Matches one of two criteria. Patients with metastatic/recurrent non-small cell lung cancer and planned to receive first line chemotherapy.",
+    "exclusion_summary": "Any active malignancy that has required treatment within 3 years. Patients with mixed small cell histology. Life expectancy less than 3 months. Insufficient tissue for NGS test.",
+    "num_inclusion_entities": 5,
+    "num_exclusion_entities": 0
+  },
+  {
+    "nct_id": "NCT06022757",
+    "title": "Study of XNW5004 Tablet in Combination With KEYTRUDA\u00ae (Pembrolizumab) in Subjects With Advanced Solid Tumors Who Failed Standard Treatments (KEYNOTE F19)",
+    "condition": "Carcinoma, Squamous Cell Carcinoma of Head and Neck, Urothelial Carcinoma, Prostate Cancer, Small-cell Lung Cancer, Non-small Cell Lung Cancer, Cervical Cancer, Other Solid Tumors",
+    "phase": "PHASE1, PHASE2",
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer",
+        "squamous cell carcinoma"
+      ],
+      "DRUG": [
+        "pd-l1 inhibitor"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "breast carcinoma",
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer",
+        "squamous cell carcinoma"
+      ],
+      "DRUG": [
+        "prior therapy",
+        "systemic therapy"
+      ],
+      "BIOMARKER": [
+        "driver mutations"
+      ],
+      "PROCEDURE": [
+        "bone marrow transplantation"
+      ]
+    },
+    "inclusion_summary": "The Phase II study is divided into 6 cohorts: 1. Histologically or cytologically confirmed recurrent or metastatic head and neck squamous cell carcinoma (including nasopharyngeal carcinoma) 2. Metastatic castration-resistant prostate adenocarcinoma.",
+    "exclusion_summary": "Cohort-specific exclusion criteria: 1. Salivary adenocarcinoma or other non squamous cell carcinoma confirmed by histology or cytology. 2. Severe bone injury caused by tumor bone metastasis. 3. Any previous treatment targeting T-cell",
+    "num_inclusion_entities": 5,
+    "num_exclusion_entities": 9
+  },
+  {
+    "nct_id": "NCT05069935",
+    "title": "FT538 in Combination With Monoclonal Antibodies in Advanced Solid Tumors",
+    "condition": "Solid Tumor, Adult",
+    "phase": "PHASE1",
+    "inclusion_entities": {
+      "DISEASE": [
+        "breast cancer",
+        "gastric cancer",
+        "lung cancer",
+        "metastatic disease",
+        "renal cell carcinoma",
+        "small cell lung cancer",
+        "squamous cell carcinoma",
+        "triple-negative breast cancer"
+      ],
+      "DRUG": [
+        "cetuximab",
+        "trastuzumab"
+      ],
+      "BIOMARKER": [
+        "her2 status",
+        "her2-",
+        "her2-targeting",
+        "microsatellite instability-high",
+        "mismatch repair deficient"
+      ],
+      "PROCEDURE": [
+        "tumor biopsy"
+      ]
+    },
+    "exclusion_entities": {
+      "LAB_TEST": [
+        "ecog performance status"
+      ]
+    },
+    "inclusion_summary": "Cohort A: The following solid tumor malignancies where anti-PD-1/PD-L1 antibodies are approved: cutaneous melanoma, non-small cell/small cell lung cancer, renal cell carcinoma, head and neck squamous cell cancer. Cohort",
+    "exclusion_summary": "Pregnant or breast-feeding women ECOG performance status greater than or equal to 2 Evidence of insufficient organ function. Clinically significant cardiovascular disease including left-ventricular ejection fraction.",
+    "num_inclusion_entities": 16,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT02973789",
+    "title": "Effect of Tumor Treating Fields (TTFields) (150 kHz) Concurrent With Standard of Care Therapies for Treatment of Stage 4 Non-small Cell Lung Cancer (NSCLC) Following Platinum Failure (LUNAR)",
+    "condition": "Nonsmall Cell Lung Cancer, NSCLC",
+    "phase": "PHASE3",
+    "inclusion_entities": {
+      "DISEASE": [
+        "metastatic disease"
+      ],
+      "DRUG": [
+        "checkpoint inhibitor",
+        "docetaxel",
+        "platinum-based chemotherapy",
+        "systemic therapy"
+      ],
+      "PROCEDURE": [
+        "radiation therapy"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "breast cancer",
+        "prostate cancer"
+      ],
+      "DRUG": [
+        "checkpoint inhibitor",
+        "docetaxel"
+      ],
+      "LAB_TEST": [
+        "platelet count",
+        "serum creatinine"
+      ]
+    },
+    "inclusion_summary": "Patients who received adjuvant or neoadjuvant platinum-based chemotherapy and developed metastatic disease within 6 months of completing therapy are eligible. Patients should not receive any systemic therapy after platinum failure before enrollment into the study.",
+    "exclusion_summary": "Metastases to central nervous system (CNS) with clinical symptoms or evidence of new metastases to CNS during screening. Patients planned to receive immune checkpoint inhibitor with contra-indications to receive immunotherapy.",
+    "num_inclusion_entities": 6,
+    "num_exclusion_entities": 6
+  },
+  {
+    "nct_id": "NCT04187768",
+    "title": "Immunological Profile Changes In Patients With Advanced Non-Small Cell Lung Cancer",
+    "condition": "Non Small Cell Lung Cancer, Non Small Cell Lung Cancer Metastatic, Healthy",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "recurrent disease",
+        "stage iv disease"
+      ],
+      "DRUG": [
+        "prior chemotherapy"
+      ],
+      "BIOMARKER": [
+        "pd-l1 tumor proportion score"
+      ]
+    },
+    "exclusion_entities": {
+      "BIOMARKER": [
+        "targetable mutations"
+      ]
+    },
+    "inclusion_summary": "Subjects must have stage IV disease or recurrent disease. Subjects should be treatment na\u00efve (systemic therapies) or have received prior chemotherapy in the first line setting.",
+    "exclusion_summary": "Subjects should not have contraindications to treatment with immune checkpoint inhibitors. Patients with targetable mutations eligible for treatment with molecularly targeted small molecule inhibitor therapy.",
+    "num_inclusion_entities": 4,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT04473703",
+    "title": "Cardiac Adverse Reactions Related to Immune Checkpoint Inhibitor in NSCLC Patients",
+    "condition": "Adverse Reactions, Immune Checkpoint Inhibitor, Non-Small Cell Lung Cancer Patients, Cardiac Event",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "small cell lung cancer"
+      ]
+    },
+    "inclusion_summary": "Lung cancer patients whose pathological results confirmed is primary non-small cell lung cancer, stage III\\~IV. Be willing and able to provide written informed consent/assent for the trial.",
+    "exclusion_summary": "The anti-PD-1, anti- PD-L1 therapy was less than two courses. Patients whose cancer diagnosed with small cell lung cancer.",
+    "num_inclusion_entities": 3,
+    "num_exclusion_entities": 2
+  },
+  {
+    "nct_id": "NCT04487457",
+    "title": "Prospective Study to Evaluate the Blood Kinetics of Immune Cells and Immunosuppressive Cytokines After Exposure to an Immunity Checkpoint Inhibitor (ICI): Study of the Impact of Chemotherapy",
+    "condition": "Non Small Cell Lung Cancer, Bladder Cancer, ENT Cancer",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "non-small-cell lung cancer",
+        "small-cell lung cancer"
+      ],
+      "DRUG": [
+        "checkpoint inhibitor"
+      ]
+    },
+    "exclusion_entities": {},
+    "inclusion_summary": "18-year-olds treated with immune checkpoint inhibitor alone or in combination with chemotherapy in 1st or 2nd line. Patients treated with locally advanced or metastatic Non-Small-Cell Lung Cancer, or bladder cancer or Ear Nose Throat cancer. Maximum delay of 2 months between IC",
+    "exclusion_summary": "Symptomatic brain metastases. Corticotherapy \\> 10 mg/day. Active auto-immune disease. Oncogenic addiction. Data processing objection.",
+    "num_inclusion_entities": 4,
+    "num_exclusion_entities": 0
+  },
+  {
+    "nct_id": "NCT03906071",
+    "title": "Phase 3 Study of Sitravatinib Plus Nivolumab vs Docetaxel in Patients With Advanced Non-Squamous Non-Small Cell Lung Cancer",
+    "condition": "Metastatic Non-Squamous Non-Small Cell Lung Cancer",
+    "phase": "PHASE3",
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer"
+      ],
+      "DRUG": [
+        "checkpoint inhibitor",
+        "docetaxel",
+        "platinum-based chemotherapy"
+      ]
+    },
+    "exclusion_entities": {
+      "DRUG": [
+        "anti-cancer therapy",
+        "checkpoint inhibitor"
+      ]
+    },
+    "inclusion_summary": "Diagnosis of Non-Squamous Non-Small Cell Lung Cancer. Prior treatment with PD-1/PD-L1 checkpoint inhibitor therapy and platinum-based chemotherapy.",
+    "exclusion_summary": "Tumors that have tested positive for EGFR, ROS1, ALK mutations, or ALK fusions. Unacceptable toxicity with prior checkpoint inhibitor therapy. Impaired heart function.",
+    "num_inclusion_entities": 6,
+    "num_exclusion_entities": 2
+  },
+  {
+    "nct_id": "NCT05260606",
+    "title": "Imaging Biomarkers for Immune Checkpoint Inhibitor Treatment in Patients With Non-small Cell Lung Cancer",
+    "condition": "Carcinoma, Non-Small-Cell Lung, Immune Checkpoint Inhibitors",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer",
+        "squamous cell carcinoma"
+      ],
+      "DRUG": [
+        "atezolizumab",
+        "nivolumab",
+        "pembrolizumab"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "gastric cancer"
+      ]
+    },
+    "inclusion_summary": "18 years old or over. pathologically proven non-small cell lung cancer: adenocarcinoma or squamous cell carcinoma. Patients to be treated with immune checkpoint inhibitors (nivolumab or pembrolizumab)",
+    "exclusion_summary": "Subjects must have at least one measurable lesion with a diameter of 10 mm by spiral CT or multi-detector CT (MD CT) or 20 mm or larger by conventional CT. They must have a history of other malignant diseases within the past 5 years, except for treated",
+    "num_inclusion_entities": 7,
+    "num_exclusion_entities": 1
+  },
+  {
+    "nct_id": "NCT06751108",
+    "title": "Impact of Concomitant Use of Steroids and Immune-Checkpoint Inhibitors on Survival Outcomes in NSCLC Patients",
+    "condition": "NSCLC, Non Small Cell Lung Cancer",
+    "phase": NaN,
+    "inclusion_entities": {
+      "DISEASE": [
+        "lung cancer",
+        "non-small cell lung cancer",
+        "small cell lung cancer"
+      ],
+      "DRUG": [
+        "atezolizumab",
+        "checkpoint inhibitor",
+        "durvalumab",
+        "nivolumab",
+        "pembrolizumab"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "lung cancer"
+      ],
+      "DRUG": [
+        "bevacizumab",
+        "doxorubicin",
+        "gemcitabine",
+        "pemetrexed"
+      ]
+    },
+    "inclusion_summary": " patients who received immune checkpoint inhibitor (ICI) therapy for the first time between December 31, 2014 and 2021. Patients diagnosed with non-small cell lung cancer within 2 years prior to the date of first ICI administration.",
+    "exclusion_summary": " patients with documented pregnancy within 180 days prior to the enrollment date. Patients with a history of any primary malignancy other than lung cancer. Patients who received concomitant anticancer therapies at the index date.",
+    "num_inclusion_entities": 8,
+    "num_exclusion_entities": 5
+  },
+  {
+    "nct_id": "NCT03775850",
+    "title": "A Study of EDP1503 in Patients With Colorectal Cancer, Breast Cancer, and Checkpoint Inhibitor Relapsed Tumors",
+    "condition": "Colorectal Cancer Metastatic, Triple Negative Breast Cancer, Non Small Cell Lung Cancer, Bladder Cancer, GastroEsophageal Cancer, Renal Cell Carcinoma, MSI-H",
+    "phase": "PHASE1",
+    "inclusion_entities": {
+      "DISEASE": [
+        "metastatic disease"
+      ]
+    },
+    "exclusion_entities": {
+      "DISEASE": [
+        "squamous cell carcinoma"
+      ],
+      "DRUG": [
+        "anti-cancer therapy",
+        "pembrolizumab",
+        "prior therapy"
+      ]
+    },
+    "inclusion_summary": "Subjects with advanced or metastatic solid tumors who have had disease progression after treatment. Have adequate organ function as defined in the clinical protocol. Specimens must be collected within 10 days prior to the start of study treatment.",
+    "exclusion_summary": "A 1-week washout is permitted for palliative radiation to non-CNS disease. Patients must have recovered from all radiation-related toxicities.",
+    "num_inclusion_entities": 1,
+    "num_exclusion_entities": 4
+  }
+]
