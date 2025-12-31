@@ -317,6 +317,18 @@ For someone designing a similar trial, this analysis provides:
 
 ---
 
+## 🛠️ Limitations:
+
+- **Manual pattern limitation**: Current implementation requires explicitly coding regex patterns for each biomarker, disease, and drug. While this covers the most common oncology entities (~60 biomarkers including EGFR, ALK, BRAF, PD-L1, HER2), it won't extract rare or emerging biomarkers unless patterns are added. 
+  - *Potential solutions*: Use gene databases (OncoKB cancer gene list) with generic patterns, biomedical NER models, or LLM APIs for automatic entity recognition.
+
+- **Dataset scope**: Keyword selection focused on lung cancer, immunotherapy, and targeted therapy trials. For other disease-specific analyses (e.g., breast cancer, leukemia), re-run with appropriate keywords.
+
+- **Quantitative threshold extraction**: Many trials use generic language ("adequate organ function") rather than specific thresholds, limiting the ability to benchmark numerical cutoffs consistently.
+
+- **Python 3.12 compatibility**: Attempted transformer-based NER models (SciBERT, spaCy) encountered installation issues with Python 3.12. Regex approach was chosen as a pragmatic workaround, but transformer models would provide better coverage with Python 3.9/3.10.
+
+
 ## 🔮 Future Enhancements
 
 **Data Expansion:**
@@ -335,8 +347,4 @@ For someone designing a similar trial, this analysis provides:
 - Geographic variation analysis (US vs EU criteria)
 - Sponsor-specific patterns (pharma vs academic trials)
 
----
 
-- **Data Source**: ClinicalTrials.gov (U.S. National Library of Medicine)
-- **Clinical Expertise**: Informed by 4 years in pharmaceutical regulatory affairs
-- **Inspiration**: Real-world protocol benchmarking workflows in clinical development teams
